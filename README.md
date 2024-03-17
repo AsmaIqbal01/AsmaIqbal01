@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects after some time I get some expertise.
 - 📫 simply drop a msg.
 - 😄 Asma 
-- ⚡ Fun fact: learning turkish and German for fun.
+- ⚡ Fun fact: learning turkish and German for fun and Arabic from core.
 
 <!---
 AsmaIqbal01/AsmaIqbal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
