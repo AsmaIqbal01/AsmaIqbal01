@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsmaIqbal01
 - 👀 I’m interested in coding and reading books.
-- 🌱 I’m currently learning Typescript and Python.
+- 🌱 I’m enrolled in GIAIC. Passed Quarter 1 now in 2 emphasizing on next.js
 - 💞️ I’m looking to collaborate on projects after some time I get some expertise.
 - 📫 simply drop a msg.
 - 😄 Asma 
