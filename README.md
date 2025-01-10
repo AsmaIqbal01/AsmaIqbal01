@@ -1,8 +1,26 @@
-# 💫 About Me:
+# About Me
 <img align="right" alt="coding-girl" width="400" src="https://camo.githubusercontent.com/f108537c0b43fa2a01cecfbf28c0ae872fbc7050001f83f99e0847628662b392/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430">
-- 👋 Hi, I’m AsmaIqbal<br>-
-- 👀 I’m interested in coding and reading books.<br>- 🌱 a full stack developer from Pakistan<br>- 💞️ I’m looking to collaborate on projects related to web development and its UX/UI design.<br>- 📫 simply drop a msg.<br>- 😄 Asma <br>- ⚡ Fun fact: learning Turkish and German for fun and Arabic from core.
-- 
+
+Hello! My name is **Asma Iqbal**, and I am a dedicated full-stack developer from Pakistan with a passion for building efficient, user-friendly, and visually appealing web applications.  
+
+---
+
+## Professional Summary
+I specialize in developing responsive and accessible web solutions with a focus on enhancing user experience and performance. My technical expertise includes modern frameworks and tools like **Next.js**, **Tailwind CSS**, and **Sanity Studio**. I am committed to delivering clean, maintainable, and scalable code.
+
+---
+
+## Current Focus
+- **Technical Growth:** Expanding my knowledge of **TypeScript** and exploring serverless architectures.  
+- **Linguistic Skills:** Learning **Turkish** and **German** for personal enrichment, alongside deepening my understanding of **Arabic**.  
+
+---
+
+## Interests and Collaboration
+I enjoy collaborating on projects that involve web development, UI/UX design, and solving real-world problems through technology. My interests also extend to exploring innovative design patterns and improving accessibility in digital products.
+
+---
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/asmaiqbal000_93162) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azeecreations1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-iqbal000) 
