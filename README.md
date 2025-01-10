@@ -1,6 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @AsmaIqbal01<br>- 👀 I’m interested in coding and reading books.<br>- 🌱 I’m enrolled in GIAIC. Passed Quarter 1 now in 2 emphasizing on next.js<br>- 💞️ I’m looking to collaborate on projects related to web development and its UX/UI design.<br>- 📫 simply drop a msg.<br>- 😄 Asma <br>- ⚡ Fun fact: learning Turkish and German for fun and Arabic from core.
-
+- 
+<img align="right" alt="coding-girl" width="400" src="![image](https://github.com/user-attachments/assets/1f3631d8-dd4c-40a5-92bc-0a6d51259407)
+">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/asmaiqbal000_93162) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azeecreations1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-iqbal000) 
 
@@ -15,7 +17,5 @@
 [![](https://visitcount.itsvg.in/api?id=AsmaIqbal01&icon=9&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asma-iqbal000) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://linkedin.com/asma-iqbal000) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
