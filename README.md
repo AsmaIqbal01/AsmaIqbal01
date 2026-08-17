@@ -6,7 +6,7 @@ Building production AI pipelines, not demos.
 - **OpenClaw Deal Scout** — Gmail → Gemini 2.5 Flash → HubSpot → Discord pipeline
   489 passing tests | systemd heartbeat | MCP Gateway (6 tools) | live since July 2026
 - **DealClaw Real Estate Edition** — AI lead qualification for UK & Pakistan estate agents
-  106/106 tests passing | Phase 1 code-complete | Web Summit ALPHA applicant
+  106/106 tests passing | Phase 1 code-complete 
 
 ## 🛠️ Stack
 Python 3.12 · FastMCP · Next.js · Tailwind CSS · Gemini · HubSpot · Meta Cloud API
