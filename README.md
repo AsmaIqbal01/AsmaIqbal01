@@ -28,8 +28,5 @@ Spec-first (SpecifyPlus · 9.6/10 min score) · ADR-driven · Maker/Checker agen
 
 ## 📊 GitHub Stats
 
-![Asma's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AsmaIqbal01&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsmaIqbal01&layout=compact&theme=dark&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=AsmaIqbal01&theme=dark&hide_border=true)
+![followers](https://img.shields.io/github/followers/AsmaIqbal01?style=social)
+![stars](https://img.shields.io/github/stars/AsmaIqbal01?style=social)
