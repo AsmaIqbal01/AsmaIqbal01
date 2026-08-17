@@ -13,8 +13,17 @@
 
 ## 🛠️ Stack
 
-`Python 3.12` · `FastMCP` · `Next.js` · `Tailwind CSS` · `Gemini 2.5 Flash` · `HubSpot` · `Meta Cloud API`
+**AI & Agents**
+`Python 3.12` · `FastMCP` · `OpenClaw` · `Gemini 2.5 Flash` · `OpenAI Agents SDK` · `Meta Cloud API`
 
+**Frontend**
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Shadcn/UI` · `Framer Motion`
+
+**Backend & APIs**
+`Node.js` · `REST APIs` · `HubSpot` · `Clerk` · `Sanity`
+
+**Infra & Tools**
+`Firebase` · `Vercel` · `Git` · `systemd` · `Discord Webhooks`
 ## 📐 How I Build
 
 Spec-first (SpecifyPlus · 9.6/10 min score) · ADR-driven · Maker/Checker agent pattern · Zero infra cost
