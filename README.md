@@ -14,7 +14,7 @@
 ## 🛠️ Stack
 
 **AI & Agents**
-`Python 3.12` · `FastMCP` · `OpenClaw` · `Gemini 2.5 Flash` · `OpenAI Agents SDK` · `Meta Cloud API`
+`Python 3.12` · `FastMCP` · `OpenClaw` · `Gemini 2.5 Flash` · `OpenAI Agents SDK` · `Meta Cloud API` · `RAG`
 
 **Frontend**
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Shadcn/UI` · `Framer Motion`
@@ -23,7 +23,7 @@
 `Node.js` · `REST APIs` · `HubSpot` · `Clerk` · `Sanity`
 
 **Infra & Tools**
-`Firebase` · `Vercel` · `Docker` · `Git` · `systemd` · `Discord Webhooks`
+`Firebase` · `Vercel` · `Docker` · `Git` · `systemd` · `Docusaurus` · `Discord Webhooks`
 
 ## 📐 How I Build
 
