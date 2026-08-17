@@ -23,7 +23,8 @@
 `Node.js` · `REST APIs` · `HubSpot` · `Clerk` · `Sanity`
 
 **Infra & Tools**
-`Firebase` · `Vercel` · `Git` · `systemd` · `Discord Webhooks`
+`Firebase` · `Vercel` · `Docker` · `Git` · `systemd` · `Discord Webhooks`
+
 ## 📐 How I Build
 
 Spec-first (SpecifyPlus · 9.6/10 min score) · ADR-driven · Maker/Checker agent pattern · Zero infra cost
