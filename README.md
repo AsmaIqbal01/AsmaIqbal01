@@ -73,6 +73,10 @@ Spec-first (SpecifyPlus · 9.6/10 min score) · ADR-driven · Maker/Checker agen
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/AsmaIqbal01/AsmaIqbal01/output/github-contribution-grid-snake-dark.svg)
+
 ## 📊 GitHub Stats
 
 ![followers](https://img.shields.io/github/followers/AsmaIqbal01?style=social)
