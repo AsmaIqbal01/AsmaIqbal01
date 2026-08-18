@@ -105,7 +105,7 @@ Spec-first (**SpecifyPlus** · 9.6/10 min score) · ADR-driven · Maker/Checker 
 
 </div>
 
-## 🐍 Contribution Snake
+## ⚡ Real Commits. Real Pipelines.
 
 <div align="center">
 
