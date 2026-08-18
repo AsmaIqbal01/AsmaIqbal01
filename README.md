@@ -73,10 +73,6 @@ Spec-first (SpecifyPlus · 9.6/10 min score) · ADR-driven · Maker/Checker agen
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/AsmaIqbal01/AsmaIqbal01/output/github-contribution-grid-snake-dark.svg)
-
 ## 📊 GitHub Stats
 
 ![followers](https://img.shields.io/github/followers/AsmaIqbal01?style=social)
@@ -88,3 +84,7 @@ Spec-first (SpecifyPlus · 9.6/10 min score) · ADR-driven · Maker/Checker agen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-iqbal000)
 [![DealClaw](https://img.shields.io/badge/DealClaw-Live-brightgreen)](https://dealclaw-vert.vercel.app)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/AsmaIqbal01/AsmaIqbal01/output/github-contribution-grid-snake-dark.svg)
