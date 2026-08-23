@@ -98,14 +98,11 @@ Spec-first (**SpecifyPlus** · 9.6/10 min score) · ADR-driven · Maker/Checker 
 
 ## 🔗 Find Me
 
-<div align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-asmaiqbal.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://asmaiqbal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-iqbal000)
 [![DealClaw](https://img.shields.io/badge/DealClaw-Live-brightgreen?style=for-the-badge)](https://dealclaw-vert.vercel.app)
 
-</div>
-
-## ⚡ Real Commits. Real Pipelines.
+> ⚡ Real Commits. Real Pipelines.
 
 <div align="center">
 
